@@ -33,7 +33,6 @@ public class MQTTOutBoundConnectorFunction implements OutboundConnectorFunction 
   private MQTTOutboundConnectorResult executeConnector(final MQTTOutboundConnectorRequest connectorRequest) {
 
     String ServerURL = connectorRequest.serverurl();
-    System.out.println("ServerURL : "+ServerURL);
     String MQTTTopic =  connectorRequest.Topic();
     String ClientId = connectorRequest.clientId();
     String Message = connectorRequest.message();
