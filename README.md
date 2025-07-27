@@ -119,7 +119,7 @@ after downloding Eclipse Mosquitto follow below commands to run
 
 ## Refer Camunda BPMN File
 
-you can refer the Camunda BPMN file here 👉🏻 https://github.com/charanteja469/Camunda-NSQ-Outbound-Connector/blob/master/src/main/resources/NSQ_Test.bpmn
+you can refer the Camunda BPMN file here 👉🏻 https://github.com/charanteja469/Camunda-MQTT-Custom-Outbound-Connector/blob/master/src/main/resources/META-INF/services/MQTT.bpmn
 
     
 
